@@ -1,6 +1,6 @@
 # Beta Kuang
 
-Indie software developer living in Shenzhen, China. I write web servers and do cross-platform GUI things.
+Web developer at work, cross-platform app developer at home. Living in Beijing, China.
 
 - `beta.kuang#gmail.com`
 - [Blog](https://betakuang.me)
